@@ -1,4 +1,13 @@
+
+
+
 # grunt-bb-generate
+
+## This plugin has evolved 
+
+grunt-bb-generate is now Grunt-generate, a more generic version with a few added goodies, see what it's all about here https://github.com/Grunt-generate/grunt-generate
+
+## Description
 
 Grunt plugin that scaffold backbone generators. It follows the DFGIMW mantra (don't fucking get in my way). It aims at be easily modifiable to fit any architecture being backbone or others.
 
